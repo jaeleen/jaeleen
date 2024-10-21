@@ -1,5 +1,5 @@
 Hello! I’m Precious 👋
-I am a Web Developer with a passion for Design and Security. With extensive experience in both development and design, I thrive in the tech world and embrace all things technology.
+I am a Web Developer with a passion for Aesthetic UI and Secure Designs.
 
 🌟 About Me
 
