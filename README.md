@@ -19,9 +19,6 @@ Databases: PostgreSQL, MySQL
 Tools: Git, JIRA, Mocha, Cypress, AWS
 
 
-📫 Contact Me
-Email: pokon1427@gmail.com
-
 - 
 <!---
 jaeleen/jaeleen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
